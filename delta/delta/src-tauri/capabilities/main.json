@@ -1,0 +1,6 @@
+{
+  "identifier": "main",
+  "windows": ["main"],
+  "remote": { "urls": ["https://*.github.io/*"] },
+  "permissions": ["core:window:allow-close", "core:window:allow-minimize", "core:window:allow-toggle-maximize", "core:window:allow-start-dragging"]
+}

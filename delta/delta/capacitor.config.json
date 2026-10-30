@@ -1,0 +1,6 @@
+{
+  "appId": "app.delta.player",
+  "appName": "Delta",
+  "webDir": "www",
+  "server": { "url": "https://REPLACE/", "allowNavigation": ["accounts.spotify.com", "*.spotify.com"] }
+}
